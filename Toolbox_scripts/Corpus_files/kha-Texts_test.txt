@@ -1,0 +1,37 @@
+\_sh v3.0  827  Text
+
+\id Rabel02-DrNgapAndHisFirstChild
+\ref DrNgapAndHisFirstChild.071
+\tx ki-kjat           ki  kyuh              bad      ynda  haba kata           ka-kmirat           jong   u     ka    la
+\mb ki=     kjat      ki  kyuh              bad      ynda  haba ka=     ta     ka=     kmirat      jong   u     ka    la
+\ph ki=     kʤat     ki  kʔiuʔ           baːt    n̩da haba ka=     ta     ka=     kmirat      ʤɔŋ u     ka    la
+\ge PL=     limb(leg) 3pl be.afraid,tremble with,and when  when F=      DIST   F=      grandmother GEN    3sg.M 3sg.F REAL
+\ps clitic= n         pro v                 conj     adv   wh   clitic= deixis clitic= n           prep   pro   pro   mood
+
+\tx yoh-i         ba  uta            u-ksiw             jong   ka    u     la   kyuh              palat        eh   bat
+\mb yoh   - i     ba  u=      ta     u=      ksiw       jong   ka    u     la   kyuh              palat        eh   bat
+\ph jɔʔ - i     ba  u=      ta     u=      ksiw       ʤɔŋ ka    u     la   kʔiuʔ           palat        ɛʔ bat
+\ge get   - 3sg.N NMZ M=      DIST   M=      grandchild GEN    3sg.F 3sg.M REAL be.afraid,tremble be.excessive IMM2 with,and
+\ps v     - pro   mod clitic= deixis clitic= n          prep   pro   pro   mood v                 v            adv  conj
+
+\tx u     ym  lah     shisha  ban         yarap              ya   la   ka-tnga        jong   u,    ka    ym  bansi
+\mb u     ym  lah     shisha  ban         ya-     rap        ya   la   ka=     tnga   jong   u     ka    ym  bansi
+\ph u     m̩ laʔ    ʃiʃa  ban         ja-     rap        ja   la   ka=     tŋa   ʤɔŋ u     ka    m̩ bansi
+\ge 3sg.M NEG be.able be.true in.order.to PLUR-   help,carry BEN  REAL F=      spouse GEN    3sg.M 3sg.F NEG have.choice
+\ps pro   neg v       v       conj        prefix- v          prep mood clitic= n      v      pro   pro   neg v
+
+\tx ban         phah   khot   noh   da   ka-wei      pat       ka-nongsumar                bat      da   u-wei       pat
+\mb ban         phah   khot   noh   da   ka=     wei pat       ka=     nong-  sumar        bad      da   u=      wei pat
+\ph ban         pʰaʔ kʰɔt nɔʔ da   ka=     wej pat       ka=     nɔŋ- sumar        baːt    da   u=      wej pat
+\ge in.order.to send   call   IMM1  INST F=      one REP,again F=      AG-    take.care.of with,and INST M=      one REP,again
+\ps conj        v      v      adv   prep clitic= num adv       clitic= der-   v            conj     prep clitic= num adv
+
+\tx u-doktor.
+\mb u=      doktor
+\ph u=      dɔktɔr
+\ge M=      doctor
+\ps clitic= n
+
+\ft ` His arms, his legs they trembled and when -  that - grandmother of his she - saw that that  - grandson of hers he - trembled excessively 
+much and he not was able indeed to help -  his - wife of his, she not had choice [but] to  send [for] call - - some other - helper and  for
+another - doctor.'

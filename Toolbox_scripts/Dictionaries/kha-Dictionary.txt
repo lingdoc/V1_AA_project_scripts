@@ -1,0 +1,75 @@
+\_sh v3.0  827  MDF 4.0
+
+\lx adi
+\ph adi
+\ps excl
+\ge Hey
+\dt 16/Sep/2017
+
+\lx adkar
+\ph aːtkar
+\ps v
+\ge economize
+\nt 'thoughtful, economical' (Singh)
+\dt 17/Sep/2017
+
+\lx ai
+\ph ai
+\ps v
+\ge give
+\dt 16/Sep/2017
+
+\lx ana
+\ph ana
+\ps n
+\ge 16th.of.rupee
+\dt 24/Mar/2019
+
+\lx ani
+\ph ani
+\ps excl
+\ge Oh
+\dt 16/Sep/2017
+
+\lx ap
+\ph ap
+\ps v
+\ge listen,wait
+\dt 17/Sep/2017
+
+\lx ar
+\ph ar
+\ps num
+\ge two
+\dt 17/Sep/2017
+
+\lx kti
+\ph kti
+\ps n
+\ge hand
+\dt 17/Sep/2017
+
+\lx ktien
+\ph ktiɛn
+\ps v
+\ge speak
+\dt 17/Sep/2017
+
+\lx lynter
+\a lynteer
+\ph ln̩tɛːr
+\ps v
+\ge be.round
+\dt 17/Sep/2017
+
+\lx yong
+\ph jɔŋ
+\ps v
+\ge be.black
+\dt 17/Sep/2017
+
+\lx yoo
+\ph jo
+\ps v
+\ge see
+\dt 22/Mar/2019
