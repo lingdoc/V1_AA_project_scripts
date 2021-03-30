@@ -1,6 +1,8 @@
 # Scripts for Toolbox and annotations
 
-The aim of these scripts are to assist in manipulating and editing annotation files in the **V1 project @ UZH**, based on interlinearization of language data using [Toolbox](https://software.sil.org/toolbox/), our annotation tool of choice, not least because it works directly with TXT files. The following scripts are included in this directory along with sample files:
+Contributors: Hiram Ring, Wei Wei Lee
+
+The aim of these scripts are to assist in manipulating and editing annotation files in the **V1 project @ UZH**, based on interlinearization of language data using [Toolbox](https://software.sil.org/toolbox/), our annotation tool of choice, not least because it works directly with TXT files. The following scripts are included in this directory:
 
 - `check-terms.py` outputs an excel spreadsheet for each part of speech represented in a Toolbox dictionary, which allows for the creation of replacement tables.
 
@@ -12,8 +14,8 @@ The aim of these scripts are to assist in manipulating and editing annotation fi
 
 - `replace_Toolbox_texts.py` (old version) replaces items in interlinearized Toolbox texts based on their lexical form as indicated in a replacement table. Currently only replaces part of speech and assumes a particular format of the replacement table.
 
-- `Toolbox_tier_scripts/replace_Toolbox_xx.py` (improved versions) replace items in tier xx in interlinearized Toolbox texts based on their lexical ID and current xx value as indicated in a replacement table. Currently replaceable: \tx, \mb, \ge, \ps.
-	- note: it does not seem to work with a single replacement table containing columns pertaining to different tiers, so as a workaround separate Excel tables can be used for every tier. Also, the script reportedly works best when there is a single Excel file in the Dictionary folder.
+- `Toolbox_tier_scripts/replace_Toolbox_xx.py` (improved versions) replace items in tier 'xx' in interlinearized Toolbox texts based on their lexical ID and current 'xx' value as indicated in a replacement table. Currently replaceable: \tx, \mb, \ge, \ps.
+	- note: it does not seem to work with a single replacement table containing columns pertaining to different tiers, so as a workaround separate Excel tables can be used for every tier. Also, the script reportedly works best when there is a single Excel file in the `Dictionaries` folder.
 
 
 - `replace_Excel_texts.py` replaces items in annotated Excel spreadsheets based on a replacement table. Currently only replaces part of speech and assumes a particular format of the replacement table.
